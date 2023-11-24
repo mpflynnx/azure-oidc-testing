@@ -1,3 +1,3 @@
 # azure-oidc-testing
 
-test to test github action
+test action
